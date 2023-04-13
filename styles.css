@@ -8,9 +8,9 @@ body {
   }
   
   #frase {
-    font-size: 30px;
+    font-size: 70px;
     border-right: solid white 4px;
-    height: 35px;
+    height: 75px;
     animation: piscar 1s linear infinite;
   }
 
