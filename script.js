@@ -5,6 +5,13 @@ const frases = ["Oi eu sou o Renan Buiatti",
   "Jujubinho",
    "O mais lindo de todos",
     "Senhor Buiatti da toca",
+    "O melhor papai do mundo",
+    "O melhor maridinho do mundo",
+    "A melhor duplinha de todos os tempos",
+    "O mais fofinho de todo o Uiguiverso",
+    "O cheirinho de lulu que te deixa louca",
+    "O que estara junto para tudo",
+    "E para SEMPRE",
      "O amor da sua vida :D"];
      
 const elemento = document.getElementById("frase");
