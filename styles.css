@@ -1,0 +1,21 @@
+body {
+    background-color: darkslategrey;
+    text-align: center;
+    color: white;
+    display: flex;
+    justify-content: center;
+    margin-top: 200px;
+  }
+  
+  #frase {
+    font-size: 30px;
+    border-right: solid white 4px;
+    height: 35px;
+    animation: piscar 1s linear infinite;
+  }
+
+  @keyframes piscar{
+    50%{
+        border-color: transparent;
+    }
+  }
